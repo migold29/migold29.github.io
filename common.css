@@ -213,7 +213,7 @@ a#kakao-link-btn em {padding-left:10px; font-size:17px; color:#d4af37;font-style
 
 .calendar {
   position: relative;
-  height: 350px;
+  height: 215px;
   margin-right: auto;
   margin-left: auto;
   overflow: hidden;
@@ -264,11 +264,11 @@ a#kakao-link-btn em {padding-left:10px; font-size:17px; color:#d4af37;font-style
   justify-content: space-around;
 }
 .calendar .cal-main .row .date {
-  width: 50px;
+  width: 33px;
   text-align: center;
   font-size: 14px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
   font-weight: 300;
   color: #666;
   border-radius: 50%;
