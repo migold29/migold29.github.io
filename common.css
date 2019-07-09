@@ -84,7 +84,7 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 #container .txt_box {margin:0 auto; }
 #container .txt_box.first {padding-top:50px}
 #container .txt_box dt{line-height: 1.900em; font-size:17px; font-weight:normal; padding:0 20px; text-align:left; width: 294px; margin: 0 auto;}
-#container .txt_box dd.desc1{padding:0 20px; font-size:14px;line-height: 2.00em; text-align:left; padding-bottom:50px;width: 294px; margin: 0 auto;}
+#container .txt_box dd.desc1{padding:0 20px; font-size:14px;line-height: 2.00em; text-align:left; padding-bottom:30px;width: 294px; margin: 0 auto;}
 #container .txt_box dt.sec {width: 160px;margin: 0 auto;}
 #container .txt_box dt.sec.first {padding-bottom:5px;}
 #container .txt_box dt a {color:#fff}
