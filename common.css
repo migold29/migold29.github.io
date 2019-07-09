@@ -13,14 +13,13 @@ input[type="submit"], input[type="reset"], input[type="button"], button { paddin
 body, dd, dl, ul {margin:0px;}
  ul, li{list-style: none}
 /* main */
-
-.mobile_wrap{font-family: 'Jeju Myeongjo', serif;letter-spacing: 0px; font-size: 0.8em; background: url(img/awesome-navy-blue-image.jpg) no-repeat center center fixed;
+body{background: url(img/awesome-navy-blue-image.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 100vh;
-    overflow: hidden; }
+	height: 100%;}
+.mobile_wrap{font-family: 'Jeju Myeongjo', serif;letter-spacing: 0px; font-size: 0.8em; overflow: hidden; }
 .mobile_wrap .visual {max-width: 600px;margin: 0 auto;}
 .mobile_wrap .visual p img {width: 100%; vertical-align: middle;}
 
