@@ -14,7 +14,7 @@ body, dd, dl, ul {margin:0px;}
  ul, li{list-style: none}
 /* main */
 
-.mobile_wrap{font-family: 'Jeju Myeongjo', serif;letter-spacing: 0px; font-size: 0.8em; overflow: hidden;background: url(img/awesome-navy-blue-image.jpg) repeat-x center center fixed;
+.mobile_wrap{font-family: 'Jeju Myeongjo', serif;letter-spacing: 0px; font-size: 0.8em; overflow: hidden;background: url(http://placekitten.com/1200/1200) repeat-x center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
