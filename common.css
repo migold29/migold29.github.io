@@ -357,6 +357,9 @@ a#kakao-link-btn em {padding-left:10px; font-size:17px; color:#d4af37;font-style
 }
 .read-more > .read-more__expand {
   z-index: 10;
-  padding: 10px;
+  padding-top: 30px;
   text-align: center;
 }
+
+.btn-primary
+{color:#d4af37 ; background-color:none; border-color:none;}
