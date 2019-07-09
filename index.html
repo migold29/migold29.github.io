@@ -252,7 +252,7 @@
 										 </div>
 									 </div>
 								<div class="read-more__expand">
-								<button class="btn btn-primary1">+사진 더 구경하기</button>
+								<button class="btn1 btn-primary1">+사진 더 구경하기</button>
 							  </div>
 							</div>
 
@@ -703,7 +703,7 @@ $(window).on("load", function(){
 });
 
 // Read More
-$('.read-more > .read-more__expand .btn').on('click', function() {
+$('.read-more > .read-more__expand .btn1').on('click', function() {
   $(this).parents('.read-more').toggleClass('collapsed');
   $(this).text($(this).text() == '+사진 더 구경하기' ? '－사진 접어두기' : '+사진 더 구경하기');
 });
