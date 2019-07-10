@@ -330,7 +330,7 @@ a#kakao-link-btn em {padding-left:10px; font-size:17px; color:#d4af37;font-style
   -moz-transition: all 0.8s;
   -ms-transition: all 0.8s;
   transition: all 0.8s;
-  max-height: 2000px;
+  max-height: 2336px;
 }
 .read-more > .read-more__content > .read-more__content__container:before {
   z-index: 5;
