@@ -79,6 +79,7 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 #container.set1{color:#d4af37; text-align:center; padding:50px 0; border-bottom:1px #d4af37 solid; max-width:540px;overflow: hidden; margin:auto;}
 #container.set2{color:#d4af37; text-align:center; padding:50px 0;max-width:540px;overflow: hidden; margin:auto;}
 #container.set3{color:#d4af37; text-align:center; padding:0;max-width:540px;overflow: hidden; margin:auto;}
+#container.set4 {color: #d4af37;text-align: center;padding: 50px 0 0px 0;max-width: 540px;overflow: hidden;margin: auto;}
 .hideme{ opacity:0;}
 
 #container .txt_box {margin:0 auto; }
@@ -89,7 +90,7 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 #container .txt_box dt.sec.first {padding-bottom:5px;}
 #container .txt_box dt a {color:#fff}
 #container .txt_box dt span {font-size:20px;}
-#container .txt_box dt em.call {width:20px;position: relative;top: 5px;padding-left: 8px;}
+#container .txt_box dt em.call {width:20px;position: relative;top: 0px;padding-left: 8px;}
 #container .txt_box dt em.call img {width:20px; height:20px;}
 #container .txt_box dd.desc{font-size:16px;line-height: 1.500em;}
 
@@ -98,6 +99,7 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 #container .txt_box.honju {margin:0 auto; color:#d4af37; text-align:center; padding-bottom:50px; border-bottom:1px #d4af37 solid; float:left; padding: 0 36px 50px 36px;	}
 #container .txt_box.honju span.fam {text-align:left; display:block;padding: 0 20px;}
 #container .txt_box .hideme .family {width:50%;float:left}
+#container .txt_box .hideme .family span.fam {padding-right: 25px;margin-bottom: 9px;display: block;}	
 #container .txt_box dt{line-height: 1.900em; font-size:17px; font-weight:normal; }
 #container .txt_box .hideme .family dt.sec {width: 124px;margin: 0 auto;}
 #container .txt_box .hideme .family dt.sec.first {padding-bottom:5px;}
