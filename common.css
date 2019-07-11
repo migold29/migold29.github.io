@@ -185,7 +185,7 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 
 
 .calendaradd {padding-top:30px;}
-.calendaradd span { padding-left:10px; font-size:17px; color:#d4af37; font-style:normal; display:block; padding-bottom:30px;}
+.calendaradd span {font-size:17px; color:#d4af37; font-style:normal; display:block; padding-bottom:30px;}
 .calendaradd img {width:20px; height:20px; }
 .calendaradd em { padding-left:10px; font-size:15px; color:#d4af37; font-style:normal;text-decoration: underline}
 
