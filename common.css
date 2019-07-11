@@ -80,6 +80,7 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 #container.set2{color:#d4af37; text-align:center; padding:50px 0;max-width:540px;overflow: hidden; margin:auto;}
 #container.set3{color:#d4af37; text-align:center; padding:0;max-width:540px;overflow: hidden; margin:auto;}
 #container.set4 {color: #d4af37;text-align: center;padding: 50px 0 0px 0;max-width: 540px;overflow: hidden;margin: auto;}
+#container.set5 {color: #d4af37;text-align: center; padding-top:50px; max-width: 540px;overflow: hidden;margin: auto;}
 .hideme{ opacity:0;}
 
 #container .txt_box {margin:0 auto; }
@@ -184,8 +185,8 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 #container .txt_box1 dd.desc1{font-size:14px;line-height: 2.00em; text-align:left; padding-top:30px;width: 294px; margin: 0 auto;}
 
 
-.calendaradd {padding-top:30px;}
-.calendaradd span {font-size:17px; color:#d4af37; font-style:normal; display:block; padding-bottom:30px;}
+.calendaradd {padding-top:20px;}
+.calendaradd span {font-size:17px; color:#d4af37; font-style:normal; display:block; padding-bottom:20px;}
 .calendaradd img {width:20px; height:20px; }
 .calendaradd em { padding-left:10px; font-size:15px; color:#d4af37; font-style:normal;text-decoration: underline}
 
@@ -237,8 +238,7 @@ a#kakao-link-btn em {padding-left:10px; font-size:15px; color:#d4af37;font-style
   font-weight: 100;
   border-radius: 50%;
   color: #d4af37;
-  padding-bottom:20px;
-  padding-bottom:20px;
+  padding-bottom:10px;
 }
 .calendar .cal-top .days-box {
   position: absolute;
