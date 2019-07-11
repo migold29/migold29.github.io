@@ -39,7 +39,7 @@ ul.invitation_top li.top_box dl dd.thumb {line-height:0; width:80%; padding-top:
 ul.invitation_top li.top_box dl .txt_box {margin:0 auto; }
 ul.invitation_top li.top_box dl .txt_box.first {padding-top:50px}
 ul.invitation_top li.top_box dl .txt_box dt{line-height: 1.900em; font-size:17px; font-weight:normal; padding:0 20px; text-align:left; width: 255px; margin: 0 auto;}
-ul.invitation_top li.top_box dl .txt_box dd.desc1{padding:0 20px; font-size:14px;line-height: 2.00em; text-align:left; padding-bottom:50px;width: 255px; margin: 0 auto;}
+ul.invitation_top li.top_box dl .txt_box dd.desc1{padding:0 20px; font-size:17px;line-height: 2.00em; text-align:left; padding-bottom:50px;width: 255px; margin: 0 auto;}
 ul.invitation_top li.top_box dl .txt_box dt.sec {width: 120px;margin: 0 auto;}
 ul.invitation_top li.top_box dl .txt_box dt.sec.first {padding-bottom:5px;}
 ul.invitation_top li.top_box dl .txt_box dt a {color:#fff}
@@ -69,7 +69,7 @@ dl.p_item dd.bottom_tit {position: relative; float: left; min-width: 110px;paddi
 dl.p_item dd.bottom_tit em {color:#d4af37; font-size:22px;}
 dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; height: 45px; right: 9px; position: absolute; top: 8px;}
 .p_item {max-width:540px;}
-.p_item h3{text-align:center; overflow:hidden; margin:0 0 50px 0;font-size:20px;}
+.p_item h3{text-align:center; overflow:hidden; margin:0 0 50px 0;font-size:16px;}
 .p_item h3 span{display:inline-block; position:relative;}
 .p_item h3 span:after, h3 span:before{content:" "; display:block; height:1px; width:800px; background:#d4af37; position:absolute; top:50%;}
 .p_item h3 span:before{left:-821px;}
@@ -186,8 +186,8 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 
 .calendaradd {padding-top:30px;}
 .calendaradd span { padding-left:10px; font-size:17px; color:#d4af37; font-style:normal; display:block; padding-bottom:30px;}
-.calendaradd img {width:30px; height:30px; }
-.calendaradd em { padding-left:10px; font-size:17px; color:#d4af37; font-style:normal;text-decoration: underline}
+.calendaradd img {width:20px; height:20px; }
+.calendaradd em { padding-left:10px; font-size:15px; color:#d4af37; font-style:normal;text-decoration: underline}
 
 button{
   outline:none;
@@ -205,13 +205,13 @@ button:hover{
   box-shadow: rgba(0, 0, 0, 0.25) 0px 10px 40px 0px; 
 }
 
-button#copyUrl img {width:30px; height:30px; }
-button#copyUrl em {padding-left:10px; font-size:17px; color:#d4af37;font-style:normal;text-decoration: underline}
+button#copyUrl img {width:20px; height:20px; }
+button#copyUrl em {padding-left:10px; font-size:15px; color:#d4af37;font-style:normal;text-decoration: underline}
 .row{margin:0}
 
 a#kakao-link-btn  {padding-top: 20px; display: block;}
-a#kakao-link-btn img {width:30px; height:30px; }
-a#kakao-link-btn em {padding-left:10px; font-size:17px; color:#d4af37;font-style:normal;text-decoration: underline}
+a#kakao-link-btn img {width:20px; height:20px; }
+a#kakao-link-btn em {padding-left:10px; font-size:15px; color:#d4af37;font-style:normal;text-decoration: underline}
 
 .calendar {
   position: relative;
@@ -369,7 +369,7 @@ a#kakao-link-btn em {padding-left:10px; font-size:17px; color:#d4af37;font-style
 .btn1{
     display: inline-block;
     margin-bottom: 0;
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 1.42857143;
     text-align: center;
